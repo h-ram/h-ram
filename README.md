@@ -1,7 +1,7 @@
 # Hi There, I'm Ram </>
 
-<img align="left"  height="200px" src="https://github-readme-stats.vercel.app/api?username=h-ram&show_icons=true&theme=transparent" alt="stats">
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ram&layout=compact" alt="stats">
+<img align="left" width="55%" height="200px" src="https://github-readme-stats.vercel.app/api?username=h-ram&show_icons=true&theme=transparent" alt="stats">
+<img align="left" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ram&layout=compact" alt="stats">
 
 
 
