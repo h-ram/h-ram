@@ -1,12 +1,20 @@
-# Hi There, I'm Ram </>
-
-<img align="left" width="54%" height="200px" src="https://github-readme-stats.vercel.app/api?username=h-ram&show_icons=true&theme=transparent" alt="stats">
-<img align="left" width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ram&layout=compact" alt="stats">
-
+# 
+<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=h-ram&show_icons=true&theme=radical" alt="stats">
+<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-ram&layout=compact&hide=html,css,scss" alt="stats">
 
 
 
+
+# Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	
+
+
+
+
+
+
