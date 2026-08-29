@@ -18,7 +18,7 @@ Stats ————————————————————————�
 . <b>Languages</b>: Python . Bash . SQL . TypeScript · JavaScript
 . <b>Infra</b>: Docker . Terraform . Nginx . Caddy
 . <b>Databases</b>: PostgreSQL . MySQL . Redis
-. <b>Networking</b>: Tailscale . DNS . VPN . Reverse Proxies
+. <b>Networking</b>: Tailscale . OpenVPN . WireGuard . UFW . SSH
 . <b>Cloud</b>: AWS . GCP
 . <b>Version Control</b>: Git . GitHub
 . <b>Homelab</b>: Immich · Jellyfin · Navidrome · Caddy · Tailscale
